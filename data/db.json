@@ -1,34 +1,40 @@
 {
-    "blogs": [
-      {
-        "title": "My new website",
-        "body": "Lorem ipsum dolor amet...",
-        "author": "yusuf",
-        "id": 1
-      },
-      {
-        "title": "Welcome to my web",
-        "body": "Lorem ipsum dolor amet...",
-        "author": "rizal",
-        "id": 2
-      },
-      {
-        "title": "Web Development React",
-        "body": "Lorem ipsum dolor amet...",
-        "author": "yusuf",
-        "id": 3
-      },
-      {
-        "title": "Learn React.js",
-        "body": "Lorem ipsum dolor amet...",
-        "author": "yusuf",
-        "id": 4
-      },
-      {
-        "title": "Basic JavaScript",
-        "body": "Lorem ipsum dolor amet...",
-        "author": "rizal",
-        "id": 5
-      }
-    ]
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Lorem ipsum dolor amet...",
+      "author": "yusuf",
+      "id": 1
+    },
+    {
+      "title": "Welcome to my web",
+      "body": "Lorem ipsum dolor amet...",
+      "author": "rizal",
+      "id": 2
+    },
+    {
+      "title": "Web Development React",
+      "body": "Lorem ipsum dolor amet...",
+      "author": "yusuf",
+      "id": 3
+    },
+    {
+      "title": "Learn React.js",
+      "body": "Lorem ipsum dolor amet...",
+      "author": "yusuf",
+      "id": 4
+    },
+    {
+      "title": "Basic JavaScript",
+      "body": "Lorem ipsum dolor amet...",
+      "author": "rizal",
+      "id": 5
+    },
+    {
+      "title": "Blog terbaru",
+      "body": "Belajar react.js",
+      "author": "rizal",
+      "id": 6
+    }
+  ]
 }
